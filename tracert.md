@@ -41,7 +41,7 @@ For www.microsoft.com: Comcast.net
 11. Class A
 12. Class A
 
-### For www.microsoft.com: Class A
+### For www.microsoft.com: 
 1. Class A
 2. Class A
 3. Class A
