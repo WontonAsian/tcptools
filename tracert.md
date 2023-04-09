@@ -6,9 +6,9 @@ Target server's IP address for www.google.com: [142.251.33.68]
 Target server's IP address for www.microsoft.com: [23.45.229.117]
 
 ## How many hops were needed to reach the target?
-For www.amazon.com: 9 hops were needed
-For www.google.com: 12 hops were needed
-For www.microsoft.com: 10 hops were needed
+For www.amazon.com: 9 hops were needed,
+For www.google.com: 12 hops were needed,
+For www.microsoft.com: 10 hops were needed,
 
 ## Can you identify your ISP from the intermediate server DNS names?
 For www.amazon.com: Comcast.net
